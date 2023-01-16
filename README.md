@@ -34,12 +34,3 @@
 
 ![codewars](https://www.codewars.com/users/Alexei%20Pronin/badges/large)
 
----
-
-### ⚙️ GitHub статистика:
-
-<div>
-    <img height="195px" alt="webDev's Github Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlekseiPronin313&layout=compact&theme=vision-friendly-dark" />
-</div>
-     
-
