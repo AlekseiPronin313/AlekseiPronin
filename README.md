@@ -8,7 +8,7 @@
 Упор делаю на стек React, Redux, TS. Уверенные знания HTML, CSS и JS. Прошел обучение по профессии Frontend Разработчик от Яндекс Практикум.
 Веду активный образ жизни, катаюсь на велосипеде и сноуборде.
 
-- :mailbox: Для связи со мной: [![Telegram Badge](https://img.shields.io/badge/-filimonovalexey-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Aleksei_Pronin13)
+- :mailbox: Для связи со мной: [![Telegram Badge](https://img.shields.io/badge/-Aleksei_Pronin-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Aleksei_Pronin13)
 
 ---
 
@@ -37,7 +37,7 @@
 ### ⚙️ GitHub статистика:
 
 <div>
-    <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlekseiPronin313&layout=compact&theme=vision-friendly-dark" />
+    <img height="195px" alt="webDev's Github Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlekseiPronin313&layout=compact&theme=vision-friendly-dark" />
 </div>
      
 
